@@ -4,3 +4,4 @@ httpx==0.26.2
 pydantic==2.8.0
 qiskit==0.42.0
 qiskit-aer==0.12.0
+
